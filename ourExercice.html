@@ -1,0 +1,31 @@
+
+
+
+
+<script type="text/javascript">
+var  inputValue = " ", outputValue = " ";
+
+function calculateCurrency(){
+    outputValue.value = inputValue.value;
+
+    // Calculate the appropriate value and set to 2 decimal places
+
+    outputValue.value =  (inputValue.value*2)
+        .toFixed(2);
+    outputValue = document.write(outputValue.value);
+
+}
+</script>
+
+
+
+
+<div class="currencyComponent boxDiv">
+    <h1>Currency Converter</h1>
+    <p>Type in amount and select currency:</p>
+    <input type="text" id="inputValue" oninput = "calculateCurrency()" value="0.00"/>
+    <p>Converted amount:</p>
+    <input type="text" id="outputValue" value="" disabled/>
+
+        <p> <script type="text/javascript"> calculateCurrency()</script>  </p>
+</div>

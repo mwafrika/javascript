@@ -1,0 +1,54 @@
+1) which challenge did you get when working within a team? how did you overcome it?
+- the first challenge we met was the lack of permenant power, when the power cut off, some of us used to get discarged.
+solution: to solve that problem, we organised ourselves on how to get a generator that could support us when the power cut off.
+========  
+
+2) what did you learn in last 6 months? which project did you do ? (Explain)
+
+-in last 6 months i learnt Javafx that provide good design for building a software project with the help of scene builder.
+project: i built a Doctor Assistant Information management system, it's a software that help the doctor to make patient's
+========  prescriptions and to save all the data of patients in the database for later use. instead of using 
+          paper based system.
+
+3) did you work with lazy people on a project? how did you solve it?
+
+4) what will you do at andela ?
+5) what is your passion?
+ANSWERS: If software development and leadership are your passion then you are on the right track
+=======
+
+Andela :
+=========
+At Andela, our values can be summarized as EPIC 
+- Excellence, Passion, Integrity, and Collaboration.
+
+This module covers the fundamental principles of being EPIC.
+
+andela's mission: to advance human potential and invest in tomorrow's leaders.
+---This EPICness helps our mission which is Advancing human Potential!
+-----------------------------------------------------------------------------------------------------------------------
+INTERVIEW
+=========
+1) Have you ever made mistake during software development?
+
+ANSWER: Yes... I have made tons of mistake, the last one I made affected the result system of the I.T 
+======= Institution I worked for before we fixed the bug.
+
+2)Have you ever impacted negatively to a group? And if yes , how did you handle it?
+
+3)Why I am interested to join their organisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
